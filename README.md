@@ -1,4 +1,4 @@
-# John's Photography
+# Photography
 
 A personal photo gallery site: https://cactus2354.github.io
 
